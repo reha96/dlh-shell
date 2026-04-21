@@ -4,3 +4,4 @@
 4) create 3-new_owner that changes the owner of the file hello to the user betty
 5) create 4-empty that creates an empty file called hello
 6) create 5-execute that adds execute permission to the owner of the file hello
+7) create 6-multiple_permissions that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello
